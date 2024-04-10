@@ -56,8 +56,6 @@
             tools:text="23.66" />
     </LinearLayout>
 
-
-
     <TextView
         android:id="@+id/textViewLabelClassification"
         android:layout_width="wrap_content"
