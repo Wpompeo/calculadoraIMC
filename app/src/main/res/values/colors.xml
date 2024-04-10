@@ -2,4 +2,14 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="main_color">#FF4500</color>
+    <color name="secondary_color">#FFA500</color>
+    <color name="magreza">#A52A2A</color>
+    <color name="normal">#006400</color>
+    <color name="sobrepesoI">#A52A2A</color>
+    <color name="obesidadeI">#B22222</color>
+    <color name="obesidadeII">#800000</color>
+    <color name="obesidadeIII">#8B0000</color>
+
+
 </resources>
