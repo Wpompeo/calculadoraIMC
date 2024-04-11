@@ -4,7 +4,7 @@ Projeto desenvolvido em kotlin, onde foi feito um aplicativo Android nativo que 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
 Screenshots
-<img src="https://github.com/Wpompeo/calculadoraimc/assets/69810568/aa3df326-17e6-4a66-8e33-e699a97595e9" width=200/> <img src="https://github.com/Wpompeo/calculadoraimc/assets/69810568/095e4ea2-06ed-407d-855d-d51d77c094cd" width=200/>
+<img src="https://github.com/Wpompeo/calculadoraimc/assets/69810568/4ab08d89-2f98-44d4-b9c6-5ae6c585b69a" width=200/> <img src="https://github.com/Wpompeo/calculadoraimc/assets/69810568/fb8777f5-14e7-4d89-a0fe-7a8f22e48d8a" width=200/>
 
 
 ## Tecnologias
