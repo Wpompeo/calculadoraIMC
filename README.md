@@ -1,5 +1,5 @@
 # Calculadora IMC
-Projeto desenvolvido em kotlin, onde foi feito um aplicativo Android nativo que tem como funcionalidade o calculo de indice de massa corporal (IMC). O app possui duas telas, a primeira é para a entrada dos dados e o resulta será mostrado na tela seguinte.
+Projeto desenvolvido em kotlin, onde foi feito um aplicativo Android nativo que tem como funcionalidade o calculo de indice de massa corporal (IMC). O app possui duas telas, a primeira é para a entrada dos dados e o resultado será mostrado na tela seguinte.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
