@@ -25,16 +25,16 @@ class ResultActivity : AppCompatActivity() {
         val classification: String = if ( resultFinal <= 18.5f){
             textViewClassificationFinal.setTextColor(getColor(R.color.magreza))
             "Magreza - grau - 0 "
-        } else if ( resultFinal >= 18.6f && resultFinal <= 24.9){
+        } else if ( resultFinal >= 18.6f && resultFinal <= 24.9f){
             textViewClassificationFinal.setTextColor(getColor(R.color.normal))
             "Normal grau - 0 "
-        } else if ( resultFinal >= 25.0f && resultFinal <= 29.9) {
+        } else if ( resultFinal > 24.9f && resultFinal <= 29.9f) {
             textViewClassificationFinal.setTextColor(getColor(R.color.sobrepesoI))
             "Sobrepeso - grau - I "
-        } else if ( resultFinal >= 30.0f && resultFinal <= 34.9){
+        } else if ( resultFinal > 29.9f && resultFinal <= 34.9f){
             textViewClassificationFinal.setTextColor(getColor(R.color.obesidadeI))
             "Obesidade - grau - I"
-        } else if ( resultFinal >= 35.0f && resultFinal <= 39.9){
+        } else if ( resultFinal > 34.9f && resultFinal <= 39.9f){
             textViewClassificationFinal.setTextColor(getColor(R.color.obesidadeII))
             "Obsesidade - grau - II"
         } else{

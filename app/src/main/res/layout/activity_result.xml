@@ -70,4 +70,14 @@
         android:textStyle="bold"
         android:textSize="24sp"
         tools:text="Normal" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="336dp"
+        android:layout_marginBottom="50dp"
+        android:src="@drawable/imc_grafic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
 </LinearLayout>
